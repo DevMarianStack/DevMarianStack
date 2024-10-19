@@ -1,21 +1,12 @@
-# Hey, I'm DevMarianStack 💫
+<p align="center">
+  <a href="https://github.com/DevMarianStack"><img src="https://img.shields.io/github/followers/DevMarianStack?style=for-the-badge"></img></a>
+  <a href="https://github.com/DevMarianStack"><img src="https://img.shields.io/github/stars/DevMarianStack?style=for-the-badge"></img></a>
+  <a href="https://marian.000.pe"><img src="https://img.shields.io/website?down_message=marian.000.pe%20is%20down%21&style=for-the-badge&up_message=marian.000.pe%20is%20up%21&url=https%3A%2F%2Fmarian.000.pe"></img></a>
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/DevMarianStack?style=social)
-![Contributions](https://img.shields.io/github/commit-activity/y/DevMarianStack?color=blue)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+<p align="center">
+  <a href="https://github.com/DevMarianStack"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="https://github.com/DevMarianStack"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+</p>
 
-## About Me
-I'm a 13-year-old developer into Unity and Discord bots. I don’t just play games—I create them. If it’s tech, I’m all in.
-
-## What I Do
-- **Unity Dev**: Working on exciting games.
-- **Discord Bots**: Making servers more fun with custom bots.
-- **Learning**: Always improving, never staying basic.
-
-## Projects
-- **[Fairy Tag](#)**: A Unity game I'm developing.
-- **[Discord Bot](#)**: Making a Discord bot that's open source.
-
-## Contact Me
-- **Snapchat**: [DevMarianStack](https://snapchat.com/t/sPZDXApN)
-- **GitHub**: [DevMarianStack](https://github.com/DevMarianStack)
+<p align="center"><img src="https://count.getloli.com/get/@:DevMarianStack" alt=":DevMarianStack" /></p>
