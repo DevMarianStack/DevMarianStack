@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DevMarianStack"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-  <a href="https://github.com/DevMarianStack"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a 
 </p>
 
 <p align="center"><img src="https://count.getloli.com/get/@:DevMarianStack" alt=":DevMarianStack" /></p>
